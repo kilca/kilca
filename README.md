@@ -1,6 +1,4 @@
-## Hey 👋🏻
-
-Hi there, I'm Lucas Briatte Vatel, an engineering student learning in computer science at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
+Hi there, I'm Kilian Cannet, an engineering student learning in computer science at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
 
 ### Web/Server Languages
 
@@ -29,7 +27,7 @@ Hi there, I'm Lucas Briatte Vatel, an engineering student learning in computer s
 ![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-0078D7?style=flat-square&logo=Unity&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Unity-0078D7?style=flat-square&logo=Unity&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20studio%20-%23313131.svg?&style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Office](https://img.shields.io/badge/Office-D83B01?style=flat-square&logo=Microsoft-Office&logoColor=white)
 
 ### OS
