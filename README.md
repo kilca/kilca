@@ -1,6 +1,6 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-Hi there, I'm Kilian Cannet, an engineering student learning in computer science at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
+Hi there, I'm Kilian, an engineering student learning in computer science at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
 
 ### Web/Server Languages
 
