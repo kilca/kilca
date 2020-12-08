@@ -1,3 +1,5 @@
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
 Hi there, I'm Kilian Cannet, an engineering student learning in computer science at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
 
 ### Web/Server Languages
@@ -36,7 +38,8 @@ Hi there, I'm Kilian Cannet, an engineering student learning in computer science
 ![Android](https://img.shields.io/badge/Android-32DE84?style=flat-square&logo=Android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70651?style=flat-square&logo=Debian&logoColor=white)
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=super-cokil&show_icons=true&hide_border=true&count_private=true" />
+![Stats]<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=super-cokil&show_icons=true&hide_border=true&count_private=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super-cokil&hide=TeX&layout=compact)
 <!--
 **super-cokil/super-cokil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
