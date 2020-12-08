@@ -38,8 +38,9 @@ Hi there, I'm Kilian Cannet, an engineering student learning in computer science
 ![Android](https://img.shields.io/badge/Android-32DE84?style=flat-square&logo=Android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70651?style=flat-square&logo=Debian&logoColor=white)
 
-![Stats]<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=super-cokil&show_icons=true&hide_border=true&count_private=true" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super-cokil&hide=TeX&layout=compact)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=super-cokil&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-cokil&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
 <!--
 **super-cokil/super-cokil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
