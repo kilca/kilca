@@ -1,6 +1,6 @@
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hello !!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-Hi there, I'm Kilian, an engineering student learning in computer science at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
+Hey ! I'm Kilian, an engineering student in computer science at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
 
 ### Web/Server Languages
 
@@ -25,7 +25,7 @@ Hi there, I'm Kilian, an engineering student learning in computer science at [Po
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-0078D7?style=for-the-badge&logo=Unity&logoColor=white)
