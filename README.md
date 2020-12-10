@@ -2,7 +2,7 @@
 
 Hey ! I'm Kilian, an engineering student in computer science at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
 
-### Web/Server Languages
+### Web/Server
 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -12,7 +12,7 @@ Hey ! I'm Kilian, an engineering student in computer science at [Polytech Paris 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-### Programming Languages
+### Programming
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B)
@@ -21,13 +21,14 @@ Hey ! I'm Kilian, an engineering student in computer science at [Polytech Paris 
 ![Java](https://img.shields.io/badge/Java-E50000?style=for-the-badge&logo=Java&logoColor=white)
 ![Ocaml](https://img.shields.io/badge/Ocaml-E50000?style=for-the-badge&logo=Ocaml&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B)
+![Julia](https://img.shields.io/badge/julia%20-%23313131.svg?&style=for-the-badge&logo=julia&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/godot%20engine%20-%23313131.svg?&style=for-the-badge&logo=godot%20engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-0078D7?style=for-the-badge&logo=Unity&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20studio%20-%23313131.svg?&style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white)
