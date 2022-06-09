@@ -1,6 +1,6 @@
-<h2>Hello !!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-
 Hey ! I'm Kilian, an engineering student in computer science at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
+
+Future full stack developper and big fan of UnityEngine.
 
 ### Web/Server
 
