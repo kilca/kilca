@@ -48,13 +48,3 @@ Hey ! I'm Kilian, an engineer in computer science and a big fan of Fullstack dev
 ![Android](https://img.shields.io/badge/Android-32DE84?style=for-the-badge&logo=Android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70651?style=for-the-badge&logo=Debian&logoColor=white)
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=super-cokil&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-cokil&layout=compact&theme=buefy" alt="languages" height="165">
-</p>
-
-<p align="center"> 
-  Visitor Count
-  <br>
-  <br>
-  <img src="https://ochre-donkey-hem.cyclic.app/count" />
-</p>
