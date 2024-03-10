@@ -1,4 +1,4 @@
-Hey ! I'm Kilian, an engineer in computer science and a big fan of Fullstack dev & Game engines.
+Hey ! I'm Kilian, a computer science engineer and a big fan of Fullstack dev & Game engines.
 
 ### Web
 
